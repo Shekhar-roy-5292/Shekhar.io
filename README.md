@@ -1,5 +1,6 @@
 # Shekhar.io
-# Portfolio Website - https://shekhar-roy-5292.github.io/Shekhar.io/
+# Portfolio Website 
+## https://shekhar-roy-5292.github.io/Shekhar.io/
 
 Welcome to my dynamic and visually engaging portfolio website, meticulously crafted using a harmonious blend of HTML, CSS, JavaScript, and the power of Bootstrap. This digital space encapsulates my journey, skills, and creative endeavors, offering a glimpse into the world of possibilities I can bring to your projects.
 
